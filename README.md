@@ -1,11 +1,16 @@
 ### "...Vitalik said 'I'd like to see two DAOs play chess against each other' and then he giggled." - [Tom Nash](https://github.com/morelazers).
 
-# OVERVIEW: Use games between DAOs a fun and engaging way to build a framework for many types of governance.
+# Use games between DAOs as a fun and engaging way to build a framework for many types of governance.
 
-## Hypothesis: Governance has three major components:
-    1) Question formulation
-    2) Decision making economy (who gets votes, how many votes do they get, how often are decisions made, are votes minted / burned or circulated like currency, etc)
-    3) Decision making manifold (the specific mechanism for allocating "votes")
+## Hypothesis: 
+Governance has three major components:
+1) Question formulation
+1) Decision making economy 
+    1) who gets votes
+    1) how many votes do they get
+    1) how often are decisions made
+    1) are votes minted / burned or circulated like currency, etc)
+1) Decision making manifold (the specific mechanism for voting)
 
 ## Problem:
 The easiest way to disrupt governance is to attack the framing of a question. This affects meatspace politics in addition to Ethereum governance. In Ethereum, this often looks like ad hominem attacks or demands for audits / guarantees / "proof".
@@ -23,7 +28,7 @@ The structure / rules of the game itself helps simplify many questions related t
 ## Expected Outcome:
 Creating a game should allow our community to rapidly surface use cases required in a proper toolchain for governance.
 
-A continuous game should provide a backdrop for experimentation - each DAO can choose any strategy for coordination and quickly test it. How do the members decide on a move? How does the DAO allocate resources? 
+A continuous, long-lived game should provide a backdrop for experimentation - each DAO can choose any strategy for coordination and quickly test it. How do the members decide on a move? How does the DAO allocate resources? 
 
 Over the long term, DAOs should be able to quickly iterate on strategies for coordination as they compete to win games. Winning strategies can then be applied toward real world use cases.
 
